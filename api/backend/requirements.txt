@@ -3,5 +3,5 @@ flask
 flask-login
 flask-script
 flask-sqlalchemy
-flask-user
+flask-user==1.0
 pyjwt
